@@ -1,8 +1,6 @@
 🛍️ Mugiwara Store Sales Dashboard
 An interactive e-commerce sales analytics dashboard built to visualize and analyze sales performance, customer behavior, and product trends for Mugiwara Store.
 
-Image
-📊 Overview
 This dashboard provides comprehensive insights into e-commerce sales data, featuring real-time metrics and interactive visualizations to support data-driven business decisions.
 ✨ Key Features
 Performance Metrics
@@ -76,8 +74,7 @@ Installation
 
 Clone the repository
 
-bashgit clone https://github.com/yourusername/mugiwara-sales-dashboard.git
-cd mugiwara-sales-dashboard
+https://github.com/MohammedAashir/Ecommerce-Dashboard
 
 Open the Excel data file
 
@@ -137,7 +134,7 @@ Payment Optimization: Optimize payment gateway strategy
 Contributions are welcome! Please feel free to submit a Pull Request.
 📧 Contact
 Your Name - Mohammed Aashir
-Project Link: https://github.com/mohammedaashir/sales-dashboard
+Project Link:https://github.com/MohammedAashir/Ecommerce-Dashboard
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 🙏 Acknowledgments
